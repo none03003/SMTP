@@ -1,0 +1,15 @@
+.style1 {
+	font-size: 12px;
+	font-weight: bold;
+  }
+  .style2 {
+	font-size: 10px;
+	font-weight: bold;
+	font-family: tahoma;
+	text-align: center;
+  }
+  input[type="radio"].rad {
+	padding: 0;
+	vertical-align: middle;
+  }
+  
